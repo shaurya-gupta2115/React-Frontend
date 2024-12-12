@@ -33,7 +33,7 @@ export default function Home() {
         <div className="absolute inset-0 w-full sm:my-20 sm:pt-1 pt-12 h-full ">
           <img
             className="w-96"
-            src="https://i.ibb.co/5BCcDYB/Remote2.png"
+            src="https://img.freepik.com/free-vector/blue-butterfly-holding-flower-white-background_1308-44478.jpg?t=st=1733978069~exp=1733981669~hmac=128370369d82da5007d6514537458befa0028b3991a76b35704695220651d6b8&w=1480"
             alt="image1"
           />
         </div>
